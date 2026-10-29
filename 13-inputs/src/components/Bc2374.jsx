@@ -5,9 +5,9 @@ function Bc2374() {
   const [digitada, setDigitada] = useState("");
   const [diferenca, setDiferenca] = useState("Digita ai");
 
-  function CalcularPressao(){
-        let pressao = Number(digitada) - Number(pneu)
-        setDiferenca(pressao)
+  function CalcularPressao() {
+    let pressao = Number(digitada) - Number(pneu);
+    setDiferenca(pressao);
   }
 
   return (
