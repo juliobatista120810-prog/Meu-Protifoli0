@@ -1,12 +1,12 @@
-.app, .home, .demo{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
+.app, .home, .demo, .Bc2374{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 
-  box-shadow: 0 0 10px #000066;
-  padding: 10;
-  border-radius: 10px;
-  margin: 10px;
+    box-shadow: 0 0 10px #00000066;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
 }
